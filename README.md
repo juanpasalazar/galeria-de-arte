@@ -95,7 +95,8 @@ imagen_de_la_obra (Image)
 📌 Implemented Shortcodes
 1. **1️⃣ Display Artworks of an Author ([obras_autor])
 2. **2️⃣ Display Author in an Artwork ([acf_autor])
-3.
+3.*3️⃣ Display Artworks from the Same Author (`[obras_mismo_autor]`)
+
 📌 Future Enhancements
 
 Improved filtering options for artworks.
