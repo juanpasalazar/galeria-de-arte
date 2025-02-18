@@ -93,5 +93,15 @@ ano_de_la_obra (Text)
 imagen_de_la_obra (Image)
 
 📌 Implemented Shortcodes
+1. **1️⃣ Display Artworks of an Author ([obras_autor])
+2. **2️⃣ Display Author in an Artwork ([acf_autor])
+3.
+📌 Future Enhancements
 
+Improved filtering options for artworks.
 
+AJAX-based search for artists.
+
+Elementor widgets for easier artwork display.
+
+📌 Author: Juanpasalazar📌 Company: Agencia ParamoAds
